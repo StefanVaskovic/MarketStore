@@ -1,0 +1,10 @@
+C:\Users\Korisnik\Desktop\praksa\MarketStore\MarketStore\bin\Debug\MarketStore.exe.config
+C:\Users\Korisnik\Desktop\praksa\MarketStore\MarketStore\bin\Debug\MarketStore.exe
+C:\Users\Korisnik\Desktop\praksa\MarketStore\MarketStore\bin\Debug\MarketStore.pdb
+C:\Users\Korisnik\Desktop\praksa\MarketStore\MarketStore\obj\Debug\MarketStore.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\praksa\MarketStore\MarketStore\obj\Debug\MarketStore.Form1.resources
+C:\Users\Korisnik\Desktop\praksa\MarketStore\MarketStore\obj\Debug\MarketStore.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\praksa\MarketStore\MarketStore\obj\Debug\MarketStore.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\praksa\MarketStore\MarketStore\obj\Debug\MarketStore.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\praksa\MarketStore\MarketStore\obj\Debug\MarketStore.exe
+C:\Users\Korisnik\Desktop\praksa\MarketStore\MarketStore\obj\Debug\MarketStore.pdb
